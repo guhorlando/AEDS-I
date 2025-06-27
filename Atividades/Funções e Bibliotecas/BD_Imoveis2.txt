@@ -1,0 +1,2 @@
+Tipo Finalidade Endereço Bairro Cidade Área Valor IPTU Quartos Suítes Banheiros Vagas Cozinha Sala Varanda Área_de_Serviço Piso Conservação Armários Ar-condicionado Aquecedor Ventilador
+apartamento morar rua adolfo olinto centro pouso alegre 120 1000000 2000 3 1 2 1 sim sim sim sim ceramica novo sim sim sim nao 
