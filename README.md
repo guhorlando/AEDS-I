@@ -1,2 +1,2 @@
 # AEDS-I
-Nesse repositório estará meus código em C++
+Nesse repositório estarão meus códigos em C++
